@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Auto-Editor",
+    "url": "https://auto-editor.com/docs/cookbook",
+    "evidence": "CLI recipes and source README",
+    "lesson": "Silence removal with speech padding, preview and editor handoff",
+    "verification": "Docs reviewed; not installed in this session"
+  },
+  {
+    "name": "AutoCut",
+    "url": "https://github.com/mli/autocut",
+    "evidence": "README and autocut/cut.py inspected",
+    "lesson": "Editable transcript selections; merge nearby retained intervals",
+    "verification": "Source inspected; not executed"
+  },
+  {
+    "name": "Auto-Subtitle",
+    "url": "https://github.com/m1guelpf/auto-subtitle",
+    "evidence": "README and auto_subtitle/cli.py inspected",
+    "lesson": "Extract mono 16 kHz audio, transcribe, save SRT, burn captions",
+    "verification": "Source inspected; not executed"
+  },
+  {
+    "name": "CutCannon",
+    "url": "https://github.com/lowerpower/cutcannon",
+    "evidence": "README plus bin/plan.py and bin/qa.py inspected",
+    "lesson": "Versioned frozen edit plans and QA reports",
+    "verification": "Source inspected; author-reported timings are not independent measurements"
+  },
+  {
+    "name": "Remotion TikTok template",
+    "url": "https://www.remotion.dev/templates/tiktok",
+    "evidence": "Runnable template and caption implementation documentation",
+    "lesson": "Separate timed caption data from reusable animation",
+    "verification": "Documentation and source README reviewed; not rendered"
+  },
+  {
+    "name": "Short Video Maker",
+    "url": "https://github.com/gyoridavid/short-video-maker",
+    "evidence": "README, example outputs, Docker and REST workflow documentation",
+    "lesson": "Scene model, async job status and limited concurrency",
+    "verification": "Implementation documentation reviewed; not deployed"
+  },
+  {
+    "name": "MoneyPrinterTurbo",
+    "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+    "evidence": "README and app/services/video.py inspected",
+    "lesson": "Independent audio/style configuration and codec fallback",
+    "verification": "Source inspected; not executed"
+  },
+  {
+    "name": "n8n long video to shorts",
+    "url": "https://n8n.io/workflows/9867-transform-long-videos-into-viral-shorts-with-ai-and-schedule-to-social-media-using-whisper-and-gemini/",
+    "evidence": "Published workflow and setup instructions",
+    "lesson": "Separate transcription, moment selection, rendering and job polling",
+    "verification": "Workflow documentation reviewed; paid services not connected"
+  },
+  {
+    "name": "Creatomate captions workflow",
+    "url": "https://creatomate.com/blog/how-to-automatically-add-subtitles-to-videos-with-n8n",
+    "evidence": "Step-by-step workflow and demonstrated output",
+    "lesson": "Reuse one tested caption template across input videos",
+    "verification": "Vendor tutorial reviewed; service not run"
+  },
+  {
+    "name": "Shotstack rich captions",
+    "url": "https://shotstack.io/docs/guide/architecting-an-application/rich-captions/",
+    "evidence": "Concrete JSON timeline examples and caption documentation",
+    "lesson": "Explicit source aliases and timestamp-driven caption effects",
+    "verification": "API documentation reviewed; service not called"
+  }
+]

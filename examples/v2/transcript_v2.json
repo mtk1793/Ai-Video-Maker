@@ -1,0 +1,203 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.22,
+    "text": " Why don't you just admit that you're freaked out by my robot hand?",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.8,
+        "word": " Why"
+      },
+      {
+        "start": 0.8,
+        "end": 1.06,
+        "word": " don't"
+      },
+      {
+        "start": 1.06,
+        "end": 1.16,
+        "word": " you"
+      },
+      {
+        "start": 1.16,
+        "end": 1.42,
+        "word": " just"
+      },
+      {
+        "start": 1.42,
+        "end": 1.62,
+        "word": " admit"
+      },
+      {
+        "start": 1.62,
+        "end": 1.96,
+        "word": " that"
+      },
+      {
+        "start": 1.96,
+        "end": 2.18,
+        "word": " you're"
+      },
+      {
+        "start": 2.18,
+        "end": 2.96,
+        "word": " freaked"
+      },
+      {
+        "start": 2.96,
+        "end": 3.08,
+        "word": " out"
+      },
+      {
+        "start": 3.08,
+        "end": 3.3,
+        "word": " by"
+      },
+      {
+        "start": 3.3,
+        "end": 3.42,
+        "word": " my"
+      },
+      {
+        "start": 3.42,
+        "end": 3.82,
+        "word": " robot"
+      },
+      {
+        "start": 3.82,
+        "end": 4.22,
+        "word": " hand?"
+      }
+    ]
+  },
+  {
+    "start": 4.6,
+    "end": 6.32,
+    "text": " I'm not freaked out, but it's...",
+    "words": [
+      {
+        "start": 4.6,
+        "end": 4.88,
+        "word": " I'm"
+      },
+      {
+        "start": 4.88,
+        "end": 4.98,
+        "word": " not"
+      },
+      {
+        "start": 4.98,
+        "end": 5.28,
+        "word": " freaked"
+      },
+      {
+        "start": 5.28,
+        "end": 5.4,
+        "word": " out,"
+      },
+      {
+        "start": 5.48,
+        "end": 5.62,
+        "word": " but"
+      },
+      {
+        "start": 5.62,
+        "end": 6.32,
+        "word": " it's..."
+      }
+    ]
+  },
+  {
+    "start": 7.279999999999999,
+    "end": 12.24,
+    "text": " Alright, fine. I'm freaked out. I'm having nightmares that I'm being chased by these giant robotic glasses.",
+    "words": [
+      {
+        "start": 7.279999999999999,
+        "end": 7.8,
+        "word": " Alright,"
+      },
+      {
+        "start": 7.8,
+        "end": 8.1,
+        "word": " fine."
+      },
+      {
+        "start": 8.68,
+        "end": 8.72,
+        "word": " I'm"
+      },
+      {
+        "start": 8.72,
+        "end": 9.12,
+        "word": " freaked"
+      },
+      {
+        "start": 9.12,
+        "end": 9.28,
+        "word": " out."
+      },
+      {
+        "start": 9.54,
+        "end": 9.54,
+        "word": " I'm"
+      },
+      {
+        "start": 9.54,
+        "end": 9.64,
+        "word": " having"
+      },
+      {
+        "start": 9.64,
+        "end": 9.92,
+        "word": " nightmares"
+      },
+      {
+        "start": 9.92,
+        "end": 10.24,
+        "word": " that"
+      },
+      {
+        "start": 10.24,
+        "end": 10.32,
+        "word": " I'm"
+      },
+      {
+        "start": 10.32,
+        "end": 10.46,
+        "word": " being"
+      },
+      {
+        "start": 10.46,
+        "end": 10.7,
+        "word": " chased"
+      },
+      {
+        "start": 10.7,
+        "end": 10.94,
+        "word": " by"
+      },
+      {
+        "start": 10.94,
+        "end": 11.06,
+        "word": " these"
+      },
+      {
+        "start": 11.06,
+        "end": 11.36,
+        "word": " giant"
+      },
+      {
+        "start": 11.36,
+        "end": 11.68,
+        "word": " robotic"
+      },
+      {
+        "start": 11.68,
+        "end": 12.24,
+        "word": " glasses."
+      }
+    ]
+  }
+]

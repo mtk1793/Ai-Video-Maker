@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.zip
+*.log
+*concat.txt
+.cache/
+models/
